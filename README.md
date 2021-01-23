@@ -1,0 +1,4 @@
+# Data-science-workflow
+This is a project which illustrate the data science workflow step by step
+In order to make a Data Science life cycle successful, it is important to understand each section well and distinguish all the different parts. Specifically is very important to understand the difference between the Development stage versus the Deployment stage, as they have different requirements that need to be satisfied as well the business Aspect.
+Most Data Science projects have similar work-flow/ structure, that you can use to structure your projects. The lifecycle below outlines the major stages that a data science project typically goes through. It is never a linear process, though it is run iteratively multiple times to try to get to the best possible results, the one that can satisfy both the customer(s) and the Business.
